@@ -1,0 +1,5 @@
+log.txt
+/dir1
+.DS_Store
+*.txt
+*..DS_Store
